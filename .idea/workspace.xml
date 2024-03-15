@@ -4,31 +4,150 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f05984a-544c-4ac1-8d40-480f7c22281c" name="Changes" comment="" />
+    <list default="true" id="8f05984a-544c-4ac1-8d40-480f7c22281c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/allure-results/0342302b-8ca0-42e2-ba17-95531ed51bd6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4f9e5443-8e93-452c-a15b-bac37632728c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/50996235-b0c9-43b0-bea6-5add78144771-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/51870869-290a-40d8-8a28-88b2948d82e7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/660fd98b-32c6-4e80-af4a-6055348fbd8c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/84d78967-bc99-4a29-8a7e-792c0a4a38ee-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/85b1c5b0-6f8b-4ed7-8361-8b4898cd016f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ac50e1c4-db0a-484c-a930-5bd3892ffbf1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b8ef54cd-9907-46f9-b03a-22453d84b35f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e0081442-a419-493d-9478-25a12764db39-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f47cdfbf-c31e-4c23-9df5-d7930403a51d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f697ddb0-d34c-4d7e-9120-826888ce38c5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/SG/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/TestCase02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/SG/TestCase02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/Testase03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/Testcase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/SG/Testcase1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium10.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2dc9A2zLnerzTn5jNbV5Dex6OuM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="TestNG.D:/Surekha/ATB5X/ATB5XLearningSelenium/testng.xml">
+    <configuration name="selenium06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.SG.selenium.selenium06" />
+      <module name="ATB5XLearningSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.SG.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selenium08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.SG.selenium.selenium08" />
+      <module name="ATB5XLearningSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.SG.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selenium09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.SG.selenium.selenium09" />
+      <module name="ATB5XLearningSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.SG.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Surekha/ATB5X/ATB5XLearningSelenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB5XLearningSelenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selenium10.testVWOLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB5XLearningSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.SG.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.SG.selenium" />
+      <option name="MAIN_CLASS_NAME" value="org.SG.selenium.selenium10" />
+      <option name="METHOD_NAME" value="testVWOLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Surekha/ATB5X/ATB5XLearningSelenium/testng.xml" />
+        <item itemvalue="TestNG.selenium10.testVWOLogin" />
+        <item itemvalue="Application.selenium09" />
+        <item itemvalue="Application.selenium08" />
+        <item itemvalue="Application.selenium06" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,5 +158,8 @@
       <updated>1710296366317</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
