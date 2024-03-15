@@ -12,7 +12,7 @@ public class selenium03 {
     public void testMethod(){
         //Ad blocker extension
         EdgeOptions edgeoptions = new EdgeOptions();
-       edgeoptions.addExtensions(new File("C://Users/SUREKHA/Downloads/AdBlock1.crx"));
+       //edgeoptions.addExtensions(new File("C://Users/SUREKHA/Downloads/AdBlock1.crx"));
        //edgeoptions.addArguments("--headless");
         WebDriver driver = new EdgeDriver(edgeoptions);
         driver.get("https://youtube.com");
