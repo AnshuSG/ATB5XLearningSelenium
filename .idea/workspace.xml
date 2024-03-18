@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f05984a-544c-4ac1-8d40-480f7c22281c" name="Changes" comment="allure report">
-      <change afterPath="$PROJECT_DIR$/allure-results/025b8e6f-fb73-441b-b396-8cc2b122261b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6576aac5-3e7b-467f-8f96-b00435c1551f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/84934266-27e3-4c19-83b0-e8232d05ff8d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b7c7e0f4-af0c-4e6b-bbc1-8a904389c20c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8f05984a-544c-4ac1-8d40-480f7c22281c" name="Changes" comment="selenium concepts">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
       <recent name="org.SG.selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.selenium11">
+  <component name="RunManager" selected="TestNG.D:/Surekha/ATB5X/ATB5XLearningSelenium/testng.xml">
     <configuration name="selenium08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.SG.selenium.selenium08" />
       <module name="ATB5XLearningSelenium" />
@@ -129,8 +125,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.selenium11" />
         <item itemvalue="TestNG.D:/Surekha/ATB5X/ATB5XLearningSelenium/testng.xml" />
+        <item itemvalue="TestNG.selenium11" />
         <item itemvalue="TestNG.selenium10.testVWOLogin" />
         <item itemvalue="Application.selenium09" />
         <item itemvalue="Application.selenium08" />
@@ -162,7 +158,31 @@
       <option name="project" value="LOCAL" />
       <updated>1710487040712</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="selenium concepts">
+      <option name="closed" value="true" />
+      <created>1710723807912</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710723807912</updated>
+    </task>
+    <task id="LOCAL-00004" summary="selenium concepts">
+      <option name="closed" value="true" />
+      <created>1710723856455</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710723856456</updated>
+    </task>
+    <task id="LOCAL-00005" summary="selenium concepts">
+      <option name="closed" value="true" />
+      <created>1710723953040</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710723953040</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +199,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="allure report" />
-    <option name="LAST_COMMIT_MESSAGE" value="allure report" />
+    <MESSAGE value="selenium concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium concepts" />
   </component>
 </project>

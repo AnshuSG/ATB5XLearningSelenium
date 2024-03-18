@@ -3,9 +3,11 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="D:/Surekha/ATB5X/ATB5XLearningSelenium">
         <classes>
-            <class name="org.SG.selenium.selenium10">
+            <class name="org.SG.selenium.selenium12">
                 <methods>
-                    <include name="testVWOLogin"/>
+
+                    <include name="TCNegative1"/>
+                    <include name="TCNegative2"/>
                 </methods>
             </class>
         </classes>
