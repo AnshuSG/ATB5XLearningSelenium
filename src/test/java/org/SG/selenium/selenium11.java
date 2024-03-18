@@ -15,7 +15,7 @@ public class selenium11 {
         //verify the current url is app.vwo.com
 
     @Test(groups = "QA")
-    @Description("Verify the correct URl, title of the VWO app")
+    @Description("Find elements ")
   public void testVWOLogin(){
         EdgeDriver driver = new EdgeDriver();
         //step 1. open the url app.vwo.com
