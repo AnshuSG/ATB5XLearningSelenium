@@ -17,6 +17,13 @@ public class selenium16 {
         List<WebElement> all_atags= driver.findElements(By.tagName("a"));
         all_atags.get(0).click();  // start free trial
         all_atags.get(1).click(); // start vwo insights
+
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+
         for(WebElement element:all_atags)
         {
             System.out.println(element.getText());
