@@ -26,7 +26,7 @@ public class selenium12 {
         driver.findElement(By.id("js-login-btn")).click();
 
         try {
-            Thread.sleep(3000);
+            Thread.sleep(5000);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
@@ -53,7 +53,7 @@ public class selenium12 {
         driver.findElement(By.id("js-login-btn")).click();
 
         try {
-            Thread.sleep(3000);
+            Thread.sleep(5000);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
