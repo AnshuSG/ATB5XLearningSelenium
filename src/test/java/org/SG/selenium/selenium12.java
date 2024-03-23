@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 public class selenium12 {
 
-    @Test(groups = "QA")
+    @Test
     @Description("Negative TC#1 , Invalid Username and valid password")
     public void TCNegative1(){
         ChromeDriver driver = new ChromeDriver();
@@ -38,7 +38,7 @@ public class selenium12 {
         driver.quit();
     }
 
-    @Test(groups = "QA")
+    @Test
     @Description("Negative TC#2 , Valid Username and invalid password")
     public void TCNegative2(){
         ChromeDriver driver = new ChromeDriver();
