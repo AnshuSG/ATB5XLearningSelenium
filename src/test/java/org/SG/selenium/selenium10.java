@@ -21,6 +21,7 @@ public class selenium10 {
         System.out.println(driver.getCurrentUrl());
         Assert.assertEquals(driver.getTitle(),"Login - VWO");
         Assert.assertEquals(driver.getCurrentUrl(),"https://app.vwo.com/#/login");
+        driver.quit();
   }
 
 }
