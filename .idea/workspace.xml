@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f05984a-544c-4ac1-8d40-480f7c22281c" name="Changes" comment="XPath axes">
-      <change afterPath="$PROJECT_DIR$/allure-results/043dd717-0a1c-4874-9cd9-2d73c8019e14-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/236e2ab7-a071-48b9-8e85-41e3bea3757a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2675ded2-9958-44c5-b4c7-6436481e4446-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3811d487-6bb3-430b-8ea1-260713b0526e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/63ac659e-9cc9-42f0-9167-fa08150bdefd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7ccd9768-f544-4a6a-8db2-bcaa7986444f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a58cab49-d2e8-48a2-afa2-6269d85c3974-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/be05f868-985f-48bd-960d-9837d42bfb3a-result.json" afterDir="false" />
+    <list default="true" id="8f05984a-544c-4ac1-8d40-480f7c22281c" name="Changes" comment="selenium 12 changed firefox driver for sessionnotcreated exception">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium12.java" afterDir="false" />
     </list>
@@ -231,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711162461450</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="selenium 12 changed firefox driver for sessionnotcreated exception">
+      <option name="closed" value="true" />
+      <created>1711178528090</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711178528091</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,7 +252,8 @@
     <MESSAGE value="2 negative automation testcases" />
     <MESSAGE value="xpath" />
     <MESSAGE value="XPath axes" />
-    <option name="LAST_COMMIT_MESSAGE" value="XPath axes" />
+    <MESSAGE value="selenium 12 changed firefox driver for sessionnotcreated exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium 12 changed firefox driver for sessionnotcreated exception" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

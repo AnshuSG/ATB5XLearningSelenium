@@ -3,6 +3,7 @@ package org.SG.selenium;
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
@@ -13,7 +14,7 @@ public class selenium12 {
     @Test(groups = "QA")
     @Description("Negative TC#1 , Invalid Username and valid password")
     public void TCNegative1(){
-        FirefoxDriver driver = new FirefoxDriver();
+        ChromeDriver driver = new ChromeDriver();
         driver.get("https://app.vwo.com");
 
         WebElement emailinput = driver.findElement(By.id("login-username"));
@@ -40,7 +41,7 @@ public class selenium12 {
     @Test(groups = "QA")
     @Description("Negative TC#2 , Valid Username and invalid password")
     public void TCNegative2(){
-        FirefoxDriver driver = new FirefoxDriver();
+        ChromeDriver driver = new ChromeDriver();
         driver.get("https://app.vwo.com");
 
         WebElement emailinput = driver.findElement(By.id("login-username"));
