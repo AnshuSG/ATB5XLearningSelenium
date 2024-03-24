@@ -1,5 +1,6 @@
 package org.SG.selenium;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -14,6 +15,9 @@ public class selenium12 {
     @Test
     @Description("Negative TC#1 , Invalid Username and valid password")
     public void TCNegative1(){
+
+        WebDriverManager.chromedriver().setup();
+
         ChromeDriver driver = new ChromeDriver();
         driver.get("https://app.vwo.com");
 
@@ -41,6 +45,7 @@ public class selenium12 {
     @Test
     @Description("Negative TC#2 , Valid Username and invalid password")
     public void TCNegative2(){
+        WebDriverManager.chromedriver().setup();
         ChromeDriver driver = new ChromeDriver();
         driver.get("https://app.vwo.com");
 
