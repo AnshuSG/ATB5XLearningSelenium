@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f05984a-544c-4ac1-8d40-480f7c22281c" name="Changes" comment="Time 5000">
-      <change afterPath="$PROJECT_DIR$/allure-results/3dfff1ba-af6a-4560-80ff-c75c94a8ac37-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5aeb2620-5131-4dd5-a1c5-a3b1e7ccc8a6-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6cdc2a8e-f3fe-4b09-b888-0d77489fc43c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e6df6393-8112-4886-b503-2a09eaab8fd2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f0f6e408-cba9-4fe4-bf08-ec6fd98d9b3e-container.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/SG/selenium/selenium12.java" afterDir="false" />
-    </list>
+    <list default="true" id="8f05984a-544c-4ac1-8d40-480f7c22281c" name="Changes" comment="maven surefire plugin configuration changed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,7 +236,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711197333881</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Webdrivermanager setup for session not created exception via jenkins">
+      <option name="closed" value="true" />
+      <created>1711243509267</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711243509267</updated>
+    </task>
+    <task id="LOCAL-00014" summary="maven surefire plugin configuration changed">
+      <option name="closed" value="true" />
+      <created>1711245394283</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711245394285</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,7 +275,9 @@
     <MESSAGE value="XPath axes" />
     <MESSAGE value="selenium 12 changed firefox driver for sessionnotcreated exception" />
     <MESSAGE value="Time 5000" />
-    <option name="LAST_COMMIT_MESSAGE" value="Time 5000" />
+    <MESSAGE value="Webdrivermanager setup for session not created exception via jenkins" />
+    <MESSAGE value="maven surefire plugin configuration changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="maven surefire plugin configuration changed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

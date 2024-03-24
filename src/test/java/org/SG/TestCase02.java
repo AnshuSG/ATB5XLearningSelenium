@@ -25,6 +25,7 @@ public class TestCase02 {
 
         driver.get("https://thetestingacademy.com");
         System.out.println(driver.getTitle());
+        driver.quit();
 
           }
 
