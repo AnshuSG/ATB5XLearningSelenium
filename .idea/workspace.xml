@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f05984a-544c-4ac1-8d40-480f7c22281c" name="Changes" comment="maven surefire plugin configuration changed" />
+    <list default="true" id="8f05984a-544c-4ac1-8d40-480f7c22281c" name="Changes" comment="maven surefire plugin configuration changed">
+      <change afterPath="$PROJECT_DIR$/allure-results/08e0ee9f-7394-473c-a3b4-0d9c1b2bdccf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1bd49542-c36e-4684-ba28-b3f5fca8d7e5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4a11a25c-7029-4b66-9d19-a72d297c2894-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/668b3fbd-3502-46cb-8c3c-c15a3a861057-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/67e1ab70-eb92-446f-80fd-4a372e805b24-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8b23bc2e-369a-4e50-a14c-2e44e5ade04c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a1f7ffb8-cccd-4405-b7b8-02e35aa46aa4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b00f2fe1-aeac-409d-b2eb-369fddaf15e1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b625bfaa-6a87-43f1-9c40-6cd26fcc2922-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d61e0623-556b-4062-8382-cc97bddd06ae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e47d1259-aef6-40f5-b746-19f6929c6c5e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ea56e65c-795c-43af-a443-f728d4349997-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/SG/TestCase02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/SG/TestCase02.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -252,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711245394285</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="maven surefire plugin configuration changed">
+      <option name="closed" value="true" />
+      <created>1711246219955</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711246219956</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

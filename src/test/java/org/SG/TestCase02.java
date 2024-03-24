@@ -13,7 +13,7 @@ public class TestCase02 {
 
         //how selenium architecture works
         // Write the code - client -java,python,ruby,c#
-         WebDriver driver = new EdgeDriver();
+         EdgeDriver driver = new EdgeDriver();
          //1. Cretae sessin -> Box -> connect with browser via the http methods
         //2. session id
         //3.driver -> ref -> functions-> driver.get()-> http command  open the url
